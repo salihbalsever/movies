@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "name": "MOV-1",
+    "category": {
+      "id": 1,
+      "name": "CAT-1"
+    }
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "name": "MOV-2",
+    "category": {
+      "id": 1,
+      "name": "CAT-1"
+    }
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "name": "MOV-3",
+    "category": {
+      "id": 2,
+      "name": "CAT-2"
+    }
+  }
+]
